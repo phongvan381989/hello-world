@@ -1,2 +1,2 @@
 # hello-world
-This is first time.
+My name is Manh Tu. This is my first time.
